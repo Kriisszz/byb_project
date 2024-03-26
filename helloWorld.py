@@ -1,1 +1,2 @@
-print("Git is awesome")
+welcome_message="Hello World"
+print(welcome_message)
